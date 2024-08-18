@@ -1,0 +1,117 @@
+
+.container
+             {
+            width: 100%;
+            text-align: center;
+             }   
+             .container1
+             {
+                width: 100%;
+                text-align: center;
+                height: 215px;
+             }
+             .container2
+             {
+                width: 100%;
+                text-align: center;
+                height: 150px;
+             }
+             div
+             {
+                color: white;
+             }
+            .class1
+            {
+             width: 40%;
+             float: left;
+             text-align: center;
+
+            }
+            .class2
+            {
+             width: 60%;
+             height: 201px;
+             float: left;
+             text-align: center;
+
+             font-size: x-large;
+            }
+            .class3
+            {
+             width: 50%;
+             float: left;
+             text-align: center;
+
+            }
+            .class4
+            {
+             width: 50%;
+             height: 201px;
+             text-align: center;
+            float: left;
+         
+            }
+            .class5
+            {
+                width: 20%;
+                text-align: center;
+                float: left;
+                font-size: x-large;
+            }
+            .class8
+            {
+                width: 40%;
+                text-align: center;
+                float: left;
+                font-size: x-large;
+            }
+            .class6
+            {
+             width: 50%;
+             float: left;
+             text-align: left;
+
+            }
+            .class7
+            {
+             width: 50%;
+             height: 150px;
+             text-align: center;
+            float: left;
+         
+            }
+            h1
+            {
+                text-align: center;
+                height: auto;
+                font-weight: 10000;
+                color:white;
+                font-size: xx-large;
+            
+            }
+            header
+            {
+            background-color:black;
+            height: 30%;
+            width: 100% ;
+
+            }
+            li
+            {
+            display:contents;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: large;
+            padding: 20px;
+            color: white;
+            }
+            ul
+            {
+                text-align: center;
+            }
+           p
+           {
+            font-size: large;
+           }
+
+            
+  
